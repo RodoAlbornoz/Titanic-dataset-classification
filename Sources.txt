@@ -1,6 +1,0 @@
-Memory optimization:
-https://pythonspeed.com/articles/pandas-load-less-data/
-
-https://www.geeksforgeeks.org/pandas-memory-management/
-
-https://towardsdatascience.com/seven-killer-memory-optimization-techniques-every-pandas-user-should-know-64707348ab20
